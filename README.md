@@ -1,5 +1,5 @@
 # Geektime Rust 语言训练营
-
+test action
 ## 环境设置
 
 ### 安装 Rust
