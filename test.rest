@@ -1,0 +1,8 @@
+### Test index page
+GET http://localhost:8080/Cargo.toml HTTP/1.1
+
+### Test index page - not found file
+GET http://localhost:8080/abc.txt HTTP/1.1
+
+### Test static file with tower-http
+GET http://localhost:8080/Cargo.toml HTTP/1.1
